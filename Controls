@@ -1,7 +1,15 @@
-
-
+Speed {
 f7 = Change Duck's Speed To Walking Speed
 f8 = Change Duck's Speed To Runing Speed
 f9 = Change Duck's Speed To Chargeing Speed
 f10 = Reset The Duck's Speed To The Default Speed
 f11 = Change Duck's Speed To SONIC SPEED 
+}
+
+Misc {
+F = Make The Duck Honk
+f12 = Make The Duck Bring A Meme
+}
+
+
+
