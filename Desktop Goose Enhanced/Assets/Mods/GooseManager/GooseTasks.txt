@@ -1,0 +1,13 @@
+Wander=True
+TrackMud=True
+CollectMeme=True
+CollectNotepad=True
+NabMouse=True
+dummyLuaTask=True
+FollowMouseDrifty=True
+ChargeToBall=True
+ChargeToStick=True
+ChaseLaser=True
+ReturnStick=True
+Sleeping=True
+RunToBed=True
