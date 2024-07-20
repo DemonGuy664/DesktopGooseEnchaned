@@ -18,7 +18,7 @@ Configuration Menu When You Run The Program
 
 Change What The Goose Can And Can't Do, And Change The Timers Of The Duck. Check [Help](Help.txt) For More Info
 
-Ajustable Speed, Check [controls](Controls.txt) For Help. Check [Help](Help.txt) For More Info
+Ajustable Speed, Check [controls](Controls.txt) For Help.
 
 
 ----IMPORTANT----
